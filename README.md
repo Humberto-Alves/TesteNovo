@@ -1,2 +1,3 @@
 # TesteNovo
-seja bem vindo
+seja bem vindo, Maldoso.
+console.log

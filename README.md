@@ -1,4 +1,4 @@
 # TesteNovo
-seja bem vindo, Maldoso.
-console.log
+seja bem vindo, Maldoso
+
 I love Maldoso
